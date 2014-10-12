@@ -1,0 +1,15 @@
+Work to do:
+* Teach rotation matrix approach to mapping
+* Develop and stub out main routine
+* Choose programming language
+* Mockup the display screen
+
+
+Hard to do:
+* Color recognition
+* Digit/barcode recognition
+* 4 cameras
+* Depth perception
+* Mapping
+* Localization
+* Shadows/light source
