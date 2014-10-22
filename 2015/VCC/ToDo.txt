@@ -4,6 +4,15 @@ Work to do:
 * Choose programming language
 * Mockup the display screen
 
+* by 11/1/14
+* Install simple CV on your laptop
+* Write quick and dirty camera to robot conversion - David
+* Get started on the gui - Josh
+* Stub out main and classes - Rob
+
+Camera FOV 
+  Horizontal 50 deg
+  Vertical 36 deg
 
 Hard to do:
 * Color recognition
