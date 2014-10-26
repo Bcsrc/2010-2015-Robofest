@@ -9,8 +9,8 @@ class CoordinateConversion():
         yMin = 0
         d1 =  50 #Start of where the camera view intersects the ground in cm
         d2 = 300 #end of cameras view on the ground in cm
-        d3 =  25
-        d4 =  25
+        d3 =  25 #forgot
+        d4 =  25 #forgot
         robotArray = []
         
         

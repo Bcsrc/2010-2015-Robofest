@@ -4,4 +4,4 @@ from coordConvert import *
 
 conversion = CoordinateConversion()
 
-print conversion.rasterToRobot(200, 200) #random numbers
+print conversion.rasterToRobot(200, 200) #random coordinates
