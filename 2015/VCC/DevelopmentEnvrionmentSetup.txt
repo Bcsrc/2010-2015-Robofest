@@ -1,0 +1,6 @@
+1) Download and install SimpleCV.
+	URL: http://simplecv.org/
+	Choose all of the defaults.
+
+2) Download and install PyGtk
+
